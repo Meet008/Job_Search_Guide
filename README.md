@@ -14,6 +14,7 @@ This is a curated list of tools and websites to help software developers stay or
 
 - **[Canva](https://www.canva.com/)**: For creating visually appealing resumes and portfolios.
 - **[Novoresume](https://novoresume.com/)**: A resume builder with templates and tips.
+- **[ResumeAI](https://withresumeai.com/ats-checker)**: Free ATS resume checker (3/day anonymous, 10/day free account) + open [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) dataset (738 employers, Workday 37.9%).
 - **[GitHub Pages](https://pages.github.com/)**: Host your portfolio or project documentation.
 - **[Behance](https://www.behance.net/)**: Showcase your design or creative projects.
 
